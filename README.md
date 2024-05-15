@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://discordapp.com/users/308514861795639297/" target="_blank">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="25" alt="discord"  />
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="25" alt="discord"  />
   </a>
   -
   <a href="https://t.me/spaghetti_coder/" target="_blank">
