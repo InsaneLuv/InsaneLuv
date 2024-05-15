@@ -1,6 +1,4 @@
-<br clear="both">
-
-<div align="center" display="space-between">
+<div align="center">
   <a href="https://discordapp.com/users/308514861795639297/" target="_blank">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="25" alt="discord"  />
   </a>
